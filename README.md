@@ -4,7 +4,7 @@ A professional, feature-rich Flutter application for creating, managing, and pre
 
 ![Flutter](https://img.shields.io/badge/Flutter-3.0+-02569B?style=for-the-badge&logo=flutter)
 ![Dart](https://img.shields.io/badge/Dart-3.0+-0175C2?style=for-the-badge&logo=dart)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+
 
 ## ✨ Features
 
@@ -27,7 +27,7 @@ A professional, feature-rich Flutter application for creating, managing, and pre
 ## 📸 Screenshots
 
 ### Quote Builder Form
-![Quote Form](screenshots/quote_form_filled.png)
+![Quote Form](screenshots/bill.jpg)
 
 ### Professional Preview
 ![Quote Preview](screenshots/quote_preview.png)
@@ -261,7 +261,6 @@ flutter analyze
 Format code:
 ```bash
 dart format lib/
-
 
 ## 👨‍💻 Author
 
