@@ -261,6 +261,7 @@ flutter analyze
 Format code:
 ```bash
 dart format lib/
+```
 
 ## 👨‍💻 Author
 
