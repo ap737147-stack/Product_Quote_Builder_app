@@ -279,7 +279,7 @@ Alok Pandey
 
 ## 📞 Support
 
-For support, email support@example.com or open an issue in the repository.
+For support, email ap737147@gmail.com or open an issue in the repository.
 
 ## ⭐ Show Your Support
 
